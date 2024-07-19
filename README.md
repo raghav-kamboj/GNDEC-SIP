@@ -11,13 +11,13 @@ Welcome to the collection of daily reports for the Student Induction Programme a
   Revision class on Integration, interaction with 2nd-year seniors on Excel, Coding, ChatGPT, and AutoCAD.
 
 - **[15th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-15.07.24.github.io/)**  
-  Maths class, UHV class
+  Maths class, UHV class.
 
 - **[12th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-12.07.24.github.io/)**  
-  Guest Lectures in Auditorium
+  Guest Lectures in Auditorium.
 
 - **[11th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-11.07.24.github.io/)**  
-  Interaction with Seniors on Canva, UHV class
+  Interaction with Seniors on Canva, UHV class.
 ---
 
 Feel free to explore the detailed reports to get a comprehensive overview of each day’s activities and insights.
