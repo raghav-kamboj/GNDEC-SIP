@@ -4,8 +4,8 @@ Welcome to the collection of daily reports for the Student Induction Programme a
 
 ## Reports
 
-- **[18th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-18.07.24.github.io/)**
-Department Visit and interaction with Dr. Harpal Singh Pannnu and Dr. Hardeep Singh Rai.
+- **[18th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-18.07.24.github.io/)**  
+  Department Visit and interaction with Dr. Harpal Singh Pannnu and Dr. Hardeep Singh Rai.
 
 - **[17th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-17.07.24.github.io/)**  
   Overview of interactions with Dr. Randhir Singh, Dr. Jaswinder Singh, NCC, NSS, Er. Jasvir Singh Grewal, and the Library introduction.
