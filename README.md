@@ -3,7 +3,9 @@
 Welcome to the collection of daily reports for the Student Induction Programme at Guru Nanak Dev Engineering College. Click on the links below to view detailed reports for each day:
 
 ## Reports
-
+- **[19th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-19.07.24.github.io/)**  
+  Canva tutorials, Maths class and academic guidance.
+  
 - **[18th July 2024](https://raghav-kamboj.github.io/GNDEC-SIP-18.07.24.github.io/)**  
   Department Visit and interaction with Dr. Harpal Singh Pannnu and Dr. Hardeep Singh Rai.
 
